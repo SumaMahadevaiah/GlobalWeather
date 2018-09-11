@@ -8,6 +8,9 @@
 
 //Technical Specification:
 
+Any Point Studio Version: 7.2.1
+Mule Run Time server : 4.1.3
+
 I have used http status codes to indicate validation (400), empty results (404), and server errors(500).
 
 The intention is to provide a REST based API interface/gateway for the older soap based web service http://www.webservicex.net/globalweather.asmx?wsdl.
